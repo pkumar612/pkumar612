@@ -240,10 +240,10 @@ I'm always open to:
 
 - 🌍 Based in **London, UK** | Eligible to work in UK
 - 💼 **9+ years** production backend engineering
-- 🤖 Building AI systems for **6 months**
+- 🤖 Building AI systems for **12 months**
 - 📚 Completed **120+ hours** of AI/ML learning
 - 🚀 Shipped **3 SaaS products** in 2024-2025
-- ☕ Currently learning: **Model Context Protocol, Advanced RAG**
+
 
 ---
 
