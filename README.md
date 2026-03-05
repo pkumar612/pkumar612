@@ -14,20 +14,19 @@ I build **production-grade AI systems** that solve real problems. With 9+ years 
 Multi-tenant platform for RTM companies and resident-led freeholds
 - **Stack:** Spring Boot, Next.js, PostgreSQL, AWS
 - **Highlights:** Role-based access control, document automation, payment processing
-- 🔗 [Live Demo](#) | [Case Study](#)
+- 🔗 [Live Demo](Freeholdr.co.uk) 
 
 ### 🎨 **StageAI** - AI-Powered Virtual Staging
 Transform empty property photos using AI image generation
 - **Stack:** Python, FastAPI, Stable Diffusion, LangChain
 - **AI Features:** Automated room detection, style transfer, batch processing
-- 🔗 [Try it](#) | [Technical Deep Dive](#)
+- 🔗 [Try it](stageai.co.uk) | [Technical Deep Dive](#)
 
 ### 📸 **PhotoLabs** - Automated Photo Processing
 B2B platform for photography resellers with intelligent automation
 - **Stack:** Spring Boot microservices, React, Redis, Kafka
 - **AI Integration:** Smart cropping, quality assessment, auto-tagging
-- 🔗 [GitHub](#) | [Architecture Diagram](#)
-
+- 🔗 [Photolabs.app) 
 ---
 
 ## 💡 Current Focus: Production AI Engineering
@@ -45,14 +44,6 @@ I'm actively building expertise in:
 - **Cloud & DevOps:** AWS (ECS, Lambda, RDS), Docker, Kubernetes, Terraform
 - **API Design:** RESTful services, GraphQL, API gateways
 - **Monitoring:** Prometheus, Grafana, Dynatrace, distributed tracing
-
-### 📚 Currently Learning
-- [ ] Model Context Protocol (MCP) - Building custom servers
-- [ ] Fine-tuning LLMs - LoRA/QLoRA for domain adaptation
-- [ ] Advanced RAG - Hybrid search, re-ranking, query optimization
-- [ ] Production MLOps - Experiment tracking, A/B testing, model governance
-
----
 
 ## 🛠️ Tech Stack
 
@@ -117,29 +108,6 @@ I'm actively building expertise in:
 ➡️ [More blog posts...](#)
 
 ---
-
-## 🎯 2026 Learning Goals
-
-### Q1 2026 (Current)
-- [x] Ship 3 SaaS MVPs with AI integration
-- [x] Master LangChain/LangGraph fundamentals
-- [ ] Build production RAG system (InsightEngine project)
-- [ ] Contribute to LangChain open source
-
-### Q2 2026
-- [ ] Learn Model Context Protocol deeply
-- [ ] Implement MLOps pipeline (MLflow, experiment tracking)
-- [ ] Build multi-agent system for complex workflows
-- [ ] Write 12 technical blog posts
-
-### Q3-Q4 2026
-- [ ] Fine-tune custom LLM for domain-specific tasks
-- [ ] Scale AI systems to 10K+ users
-- [ ] Speak at London AI meetup
-- [ ] Contribute to major AI framework (LangChain/Haystack)
-
----
-
 ## 💼 Professional Experience
 
 ### 🏢 **Founder** @ TechRadar Ltd (Oct 2024 - Present)
@@ -215,7 +183,6 @@ Built for PhotoLabs - processes 1000+ images/day with intelligent automation.
 ## 🎓 Certifications & Education
 
 - 🎓 **M.S. Electrical Engineering** - Texas A&M University, Kingsville
-- 🏆 **AWS Certified Solutions Architect** (In Progress)
 - 📚 **AI Engineering Roadmap 2026** (Self-paced, 120+ hours completed)
 
 ---
@@ -243,8 +210,6 @@ I'm always open to:
 - 🤖 Building AI systems for **12 months**
 - 📚 Completed **120+ hours** of AI/ML learning
 - 🚀 Shipped **3 SaaS products** in 2024-2025
-
-
 ---
 
 ## 📄 License
